@@ -6,7 +6,7 @@ A cloud ready selenium-chromedriver based automation software for auto trading i
 ###### 1. Auto login and browsing
 ###### 2. Following patterns dictated by the user
 ###### 3. Supervisord for extra stability and cloud support
-###### 4. Multiple Chromedriver support for multiple session without any conflics and failures
+###### 4. Multiple Chromedriver support for multiple session without any conflicts and failures
 ###### 5. Alert user by global sms/phone call based on preffered condition
 
 ## Tools and Technologies:
