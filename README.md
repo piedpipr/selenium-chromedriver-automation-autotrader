@@ -18,7 +18,7 @@ A cloud ready selenium-chromedriver based automation software for auto trading i
 
 See the working video 
 
-[![SC2 Video](https://lh4.googleusercontent.com/4LtevjzJPpN_v40ZSSlJYZdGqWFv3yx--XwgPZzput-XE_2ks_DZJNFTWP0j6jhg77PXr9IUR-2d9D4D2pgh=w1365-h665)](https://drive.google.com/file/d/1Xmb9fFlojfOVVb5zSyEdi-AHZtl6hxZS/preview)
+[![Working Software Demo Video](https://lh4.googleusercontent.com/4LtevjzJPpN_v40ZSSlJYZdGqWFv3yx--XwgPZzput-XE_2ks_DZJNFTWP0j6jhg77PXr9IUR-2d9D4D2pgh=w1365-h665)](https://drive.google.com/file/d/1Xmb9fFlojfOVVb5zSyEdi-AHZtl6hxZS/preview)
 
 
 ## Setup
