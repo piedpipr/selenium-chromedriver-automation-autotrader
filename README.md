@@ -1,6 +1,8 @@
 # Selenium-Chromedriver Based Trading Automation
 ### Selenium automation for Crypto Binary Option
-A cloud ready selenium-chromedriver based automation software for auto trading in binary options with call and sms notifications
+A cloud ready selenium-chromedriver based automation software for auto trading in binary options with call and sms notifications.
+
+This just a prototype, where trading is automated for demostration purpose only. Further investigation and development into tading technicalities might lead it to become a profitable model.
 
 ## Some of the features: 
 ###### 1. Auto login and browsing
